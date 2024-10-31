@@ -1,0 +1,14 @@
+13:52:31.82 INFO | core.autoreger:start:48 | Successfully grab 1 accounts
+13:52:31.82 INFO | core.autoreger:custom_delay:111 | Sleep for 1 seconds
+13:52:33.11 ERROR | core.autoreger:worker:96 | Error Non-hexadecimal digit found
+13:52:33.11 INFO | core.autoreger:custom_delay:111 | Sleep for 1 seconds
+13:52:34.16 ERROR | core.autoreger:worker:96 | Error Non-hexadecimal digit found
+13:52:34.17 INFO | core.autoreger:custom_delay:111 | Sleep for 1 seconds
+13:52:35.77 ERROR | core.autoreger:worker:96 | Error Non-hexadecimal digit found
+13:52:35.77 INFO | core.autoreger:custom_delay:111 | Sleep for 1 seconds
+13:52:37.65 ERROR | core.autoreger:worker:96 | Error Non-hexadecimal digit found
+13:52:37.65 INFO | core.autoreger:custom_delay:111 | Sleep for 1 seconds
+13:52:39.06 ERROR | core.autoreger:worker:96 | Error Non-hexadecimal digit found
+13:52:39.06 INFO | core.autoreger:custom_delay:111 | Sleep for 1 seconds
+13:52:40.54 ERROR | core.autoreger:worker:96 | Error Non-hexadecimal digit found
+13:59:50.86 INFO | core.autoreger:get_accounts:27 | keys.txt is empty!
